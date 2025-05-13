@@ -1,7 +1,5 @@
-# Name - Rajat Bhootra
-# Roll No. - 112301044
-
 # Sudoku Solver using pycosat
+This project has been created under the Introduction to AI course at IIT-Palakkad.
 
 This project implements a Sudoku solver by formulating a Sudoku puzzle as a Boolean satisfiability (SAT) problem. It encodes the puzzle into Conjunctive Normal Form (CNF) and uses the pycosat SAT solver to find a solution. The approach covers all the standard Sudoku constraints:
 
